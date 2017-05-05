@@ -8,12 +8,12 @@ import time, os, sys
 from tqdm import tqdm
 
 # Append all the path
-sys.path.append('/Users/krishnanraghavan/Documents/Research/CommonLibrariesDissertation')
-path_store = '//Users/krishnanraghavan/Documents/Research/HierarchicalDimensionReduction/FinalDistSamples/'
+sys.path.append('..//CommonLibrariesDissertation')
+path_store = '../FinalDistSamples/'
 ## We have to now import our libraries
 from Data_import import *
 from Library_Paper_two  import *
-paper = 'paper_2'
+paper = 'paper'
 
 def extract_samples(X, y, p):
     index_1= [i for i,v in enumerate(y) if v == p]
@@ -21,8 +21,6 @@ def extract_samples(X, y, p):
     return N
 
 def dim_reduction(X, i_dim, o_dim, g_size):
-    print i_dim, o_dim, g_size
-
     while (i_dim) >= o_dim:
         # Define the initial arrays for our calculation
         Temp_proj =[]
@@ -94,7 +92,6 @@ def new_groups(T, g_size):
 
 #  Distance calculation for just plain testing
 def test_distance_calculation(X, y):
-
     # Start afresh again
     # Let us now test how our distance behaves
     # Get the first sample
