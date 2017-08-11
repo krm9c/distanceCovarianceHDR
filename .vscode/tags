@@ -1,0 +1,373 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+Analyse_custom_Optimizer	../Test_random.py	/^def Analyse_custom_Optimizer(X_train, y_train, X_test, y_test):$/;"	kind:function	line:54
+Analyse_custom_Optimizer	../Test_v3.py	/^def Analyse_custom_Optimizer(X_train, y_train, X_test, y_test):$/;"	kind:function	line:53
+Analyse_custom_Optimizer	../Test_v4.py	/^def Analyse_custom_Optimizer(X_train, y_train, X_test, y_test):$/;"	kind:function	line:53
+Analytic_Regression	../Paper_res_v1.py	/^def Analytic_Regression(model, Xtr, ytr, Xte, yte, iterate):$/;"	kind:function	line:179
+Compare_classifiers.py	../Compare_classifiers.py	1;"	kind:file	line:1
+K	../Test_random.py	/^K =0.85$/;"	kind:variable	line:112
+K	../Test_v3.py	/^K = np.random.rand(total_sparsity,1).reshape(-1)$/;"	kind:variable	line:106
+K	../Test_v4.py	/^K =0.87$/;"	kind:variable	line:113
+Log_regression_our_method	../Paper_res_v1.py	/^def Log_regression_our_method(X_train, X_test, y_train, y_test):$/;"	kind:function	line:212
+Low_Rank_Approx	../distanceHDR.py	/^def Low_Rank_Approx(r, Sigma):$/;"	kind:function	line:38
+N	../Paper_res_v2.py	/^N = 1$/;"	kind:variable	line:89
+N	../Paper_res_v3.py	/^N = 1$/;"	kind:variable	line:91
+N	../Test_v1.py	/^N = extract_samples(train_dataset, train_labels, 1);$/;"	kind:variable	line:142
+N	../Test_v1.py	/^N = temp_scalar.transform(N)$/;"	kind:variable	line:146
+No	../Paper_res_v3.py	/^No = No$/;"	kind:variable	line:84
+No	../Test_dist_cov.py	/^No = No$/;"	kind:variable	line:46
+P	../Test_random.py	/^    P = dict_learning(Sigma, n_components = n, alpha = x, max_iter=100, tol=1e-08)$/;"	kind:variable	line:126
+P	../Test_random.py	/^P = P.astype(int)$/;"	kind:variable	line:154
+P	../Test_random.py	/^P = np.argsort(np.array(n_comp))$/;"	kind:variable	line:153
+P	../Test_v3.py	/^    P = dict_learning(Sigma, n_components = n_comp, alpha = x, max_iter=100, tol=1e-08)$/;"	kind:variable	line:118
+P	../Test_v3.py	/^P = P.astype(int)$/;"	kind:variable	line:147
+P	../Test_v3.py	/^P = np.argsort(np.array(K))$/;"	kind:variable	line:146
+P	../Test_v4.py	/^    P = dict_learning(Sigma, n_components = n_comp, alpha = x, max_iter=100, tol=1e-08)$/;"	kind:variable	line:126
+P	../Test_v4.py	/^P = P.astype(int)$/;"	kind:variable	line:151
+P	../Test_v4.py	/^P = np.argsort(np.array(K))$/;"	kind:variable	line:150
+Paper_res_v1.py	../Paper_res_v1.py	1;"	kind:file	line:1
+Paper_res_v2.py	../Paper_res_v2.py	1;"	kind:file	line:1
+Paper_res_v3.py	../Paper_res_v3.py	1;"	kind:file	line:1
+Res	../Test_random.py	/^Res = np.array(Results).reshape(-1)$/;"	kind:variable	line:156
+Res	../Test_v3.py	/^Res = np.array(Results).reshape(-1)$/;"	kind:variable	line:149
+Res	../Test_v4.py	/^Res = np.array(Results).reshape(-1)$/;"	kind:variable	line:153
+Results	../Paper_res_v1.py	/^Results=[]$/;"	kind:variable	line:6
+Results	../Test_optimize_sparsity.py	/^Results=[]$/;"	kind:variable	line:6
+Results	../Test_random.py	/^Results=[]$/;"	kind:variable	line:104
+Results	../Test_v3.py	/^Results=[]$/;"	kind:variable	line:99
+Results	../Test_v4.py	/^Results=[]$/;"	kind:variable	line:105
+Sigma	../Test_random.py	/^Sigma = np.corrcoef(np.transpose(X_train));$/;"	kind:variable	line:116
+Sigma	../Test_v3.py	/^Sigma = np.corrcoef(np.transpose(X_train));$/;"	kind:variable	line:110
+Sigma	../Test_v4.py	/^Sigma = np.corrcoef(np.transpose(X_train));$/;"	kind:variable	line:117
+SparsePCA.py	../SparsePCA.py	1;"	kind:file	line:1
+T	../Paper_res_v3.py	/^T  = T$/;"	kind:variable	line:85
+T	../Test_dist_cov.py	/^T  = T$/;"	kind:variable	line:47
+T	../Test_v1.py	/^T = extract_samples(train_dataset, train_labels, 4);$/;"	kind:variable	line:143
+T	../Test_v1.py	/^T = temp_scalar.transform(T)$/;"	kind:variable	line:147
+T_NNarray	../Test_random.py	/^    T_NNarray = []$/;"	kind:variable	line:145
+T_NNarray	../Test_v3.py	/^    T_NNarray = []$/;"	kind:variable	line:138
+T_NNarray	../Test_v4.py	/^    T_NNarray = []$/;"	kind:variable	line:142
+Temp_accuracy	../Test_optimize_sparsity.py	/^Temp_accuracy =[]$/;"	kind:variable	line:167
+Temp_proj	../Test_random.py	/^    Temp_proj =[]$/;"	kind:variable	line:131
+Temp_proj	../Test_v3.py	/^    Temp_proj =[]$/;"	kind:variable	line:126
+Temp_proj	../Test_v4.py	/^    Temp_proj =[]$/;"	kind:variable	line:131
+Temp_proj_test	../Test_random.py	/^    Temp_proj_test = []$/;"	kind:variable	line:132
+Temp_proj_test	../Test_v3.py	/^    Temp_proj_test = []$/;"	kind:variable	line:127
+Temp_proj_test	../Test_v4.py	/^    Temp_proj_test = []$/;"	kind:variable	line:132
+Temp_sparsity	../Test_optimize_sparsity.py	/^Temp_sparsity =[]$/;"	kind:variable	line:166
+Temp_sparsity_initial	../Test_optimize_sparsity.py	/^Temp_sparsity_initial =[]$/;"	kind:variable	line:165
+Test	../Paper_res_v2.py	/^    Test = dim_reduction_test(X_test, Level, i_dim = X_train.shape[1], o_dim = n_comp, g_size=g_size)$/;"	kind:variable	line:97
+Test	../Test_v1.py	/^Test = dim_reduction_test(T, Level, i_dim=T.shape[1], o_dim=5, g_size=2)$/;"	kind:variable	line:163
+Test	../Test_v2.py	/^Test = test_dataset$/;"	kind:variable	line:84
+Test_dist_cov.py	../Test_dist_cov.py	1;"	kind:file	line:1
+Test_optimize_sparsity.py	../Test_optimize_sparsity.py	1;"	kind:file	line:1
+Test_random.py	../Test_random.py	1;"	kind:file	line:1
+Test_v1.py	../Test_v1.py	1;"	kind:file	line:1
+Test_v2.py	../Test_v2.py	1;"	kind:file	line:1
+Test_v3.py	../Test_v3.py	1;"	kind:file	line:1
+Test_v4.py	../Test_v4.py	1;"	kind:file	line:1
+Train	../Test_v2.py	/^Train = train_dataset$/;"	kind:variable	line:180
+Train	../Test_v2.py	/^Train = train_dataset$/;"	kind:variable	line:83
+Train_Glob_Iterations	../Test_random.py	/^Train_Glob_Iterations = 50$/;"	kind:variable	line:13
+Train_Glob_Iterations	../Test_v3.py	/^Train_Glob_Iterations = 50$/;"	kind:variable	line:13
+Train_Glob_Iterations	../Test_v4.py	/^Train_Glob_Iterations = 50$/;"	kind:variable	line:13
+Train_batch_size	../Test_random.py	/^Train_batch_size = 256$/;"	kind:variable	line:12
+Train_batch_size	../Test_v3.py	/^Train_batch_size = 256$/;"	kind:variable	line:12
+Train_batch_size	../Test_v4.py	/^Train_batch_size = 256$/;"	kind:variable	line:12
+Trans	../Test_random.py	/^        Trans = P[1]$/;"	kind:variable	line:128
+Trans	../Test_random.py	/^        Trans = np.transpose(P[1])$/;"	kind:variable	line:130
+Trans	../Test_v3.py	/^        Trans = P[1]$/;"	kind:variable	line:120
+Trans	../Test_v3.py	/^        Trans = np.transpose(P[1])$/;"	kind:variable	line:122
+Trans	../Test_v4.py	/^        Trans = P[1]$/;"	kind:variable	line:128
+Trans	../Test_v4.py	/^        Trans = np.transpose(P[1])$/;"	kind:variable	line:130
+X_test	../Paper_res_v2.py	/^X_test = scaler.transform(T)$/;"	kind:variable	line:87
+X_test	../Paper_res_v3.py	/^X_test = scaler.transform(T)$/;"	kind:variable	line:90
+X_test	../Test_dist_cov.py	/^X_test = scaler.transform(T)$/;"	kind:variable	line:52
+X_test	../Test_optimize_sparsity.py	/^        X_test = scaler.transform(T)$/;"	kind:variable	line:195
+X_test	../Test_optimize_sparsity.py	/^    X_test = temp_scalar.transform(T)$/;"	kind:variable	line:179
+X_test	../Test_random.py	/^    X_test = np.array(np.transpose(Temp_proj_test))$/;"	kind:variable	line:137
+X_test	../Test_random.py	/^    X_test = temp_scalar.transform(T)$/;"	kind:variable	line:122
+X_test	../Test_v3.py	/^    X_test = np.array(np.transpose(Temp_proj_test))$/;"	kind:variable	line:132
+X_test	../Test_v3.py	/^    X_test = temp_scalar.transform(T)$/;"	kind:variable	line:115
+X_test	../Test_v4.py	/^    X_test = np.array(np.transpose(Temp_proj_test))$/;"	kind:variable	line:137
+X_test	../Test_v4.py	/^    X_test = temp_scalar.transform(T)$/;"	kind:variable	line:123
+X_train	../Paper_res_v2.py	/^X_train = scaler.transform(No)$/;"	kind:variable	line:86
+X_train	../Paper_res_v3.py	/^X_train = scaler.transform(No)$/;"	kind:variable	line:89
+X_train	../Test_dist_cov.py	/^X_train = scaler.transform(No)$/;"	kind:variable	line:51
+X_train	../Test_optimize_sparsity.py	/^        X_train = scaler.transform(N)$/;"	kind:variable	line:192
+X_train	../Test_optimize_sparsity.py	/^    X_train = scaler.transform(N)$/;"	kind:variable	line:177
+X_train	../Test_random.py	/^    X_train = np.array(np.transpose(Temp_proj))$/;"	kind:variable	line:136
+X_train	../Test_random.py	/^    X_train = scaler.transform(N)$/;"	kind:variable	line:120
+X_train	../Test_random.py	/^X_train = scaler.transform(N)$/;"	kind:variable	line:114
+X_train	../Test_v3.py	/^    X_train = np.array(np.transpose(Temp_proj))$/;"	kind:variable	line:131
+X_train	../Test_v3.py	/^    X_train = scaler.transform(N)$/;"	kind:variable	line:113
+X_train	../Test_v3.py	/^X_train = scaler.transform(N)$/;"	kind:variable	line:108
+X_train	../Test_v4.py	/^    X_train = np.array(np.transpose(Temp_proj))$/;"	kind:variable	line:136
+X_train	../Test_v4.py	/^    X_train = scaler.transform(N)$/;"	kind:variable	line:121
+X_train	../Test_v4.py	/^X_train = scaler.transform(N)$/;"	kind:variable	line:115
+__init__	../Paper_res_v1.py	/^    def __init__(self, inputs, classes):$/;"	kind:member	line:54
+__init__	../Test_optimize_sparsity.py	/^    def __init__(self, inputs, classes):$/;"	kind:member	line:91
+__init__	../distanceHDR.py	/^    def __init__(self):$/;"	kind:member	line:22
+__init__	../distanceHDR_v1.py	/^    def __init__(self):$/;"	kind:member	line:20
+_gen_even_slices	../SparsePCA.py	/^def _gen_even_slices(n, n_packs):$/;"	kind:function	line:13
+_update_U	../SparsePCA.py	/^def _update_U(U, Y, V, verbose=False, return_r2=False):$/;"	kind:function	line:104
+_update_V	../SparsePCA.py	/^def _update_V(U, Y, alpha, V=None, Gram=None, method='lars'):$/;"	kind:function	line:50
+_update_V_parallel	../SparsePCA.py	/^def _update_V_parallel(U, Y, alpha, V=None, Gram=None, method='lars', n_jobs=1):$/;"	kind:function	line:85
+acc	../Paper_res_v3.py	/^acc = np.zeros((1,9))$/;"	kind:variable	line:93
+acc	../Test_optimize_sparsity.py	/^            acc = accuracy(preds, y)$/;"	kind:variable	line:206
+accuracy	../Paper_res_v1.py	/^def accuracy(predictions, labels):$/;"	kind:function	line:141
+accuracy	../Test_optimize_sparsity.py	/^def accuracy(predictions, labels):$/;"	kind:function	line:71
+accuracy	../Test_v1.py	/^def accuracy(predictions, labels):$/;"	kind:function	line:44
+accuracy	../Test_v2.py	/^def accuracy(predictions, labels):$/;"	kind:function	line:42
+act_f	../Test_v1.py	/^act_f = "relu"$/;"	kind:variable	line:33
+act_f	../Test_v2.py	/^act_f = "relu"$/;"	kind:variable	line:33
+back_init_f	../Test_v1.py	/^back_init_f = "uniform"$/;"	kind:variable	line:35
+back_init_f	../Test_v2.py	/^back_init_f = "uniform"$/;"	kind:variable	line:35
+back_uni_range	../Test_v1.py	/^back_uni_range = 0.1$/;"	kind:variable	line:37
+back_uni_range	../Test_v2.py	/^back_uni_range = 0.1$/;"	kind:variable	line:37
+batch_size	../Test_v1.py	/^batch_size = 256$/;"	kind:variable	line:28
+batch_size	../Test_v2.py	/^batch_size = 256$/;"	kind:variable	line:28
+beta_1	../Test_optimize_sparsity.py	/^        beta_1 = 0.99*beta_1$/;"	kind:variable	line:243
+beta_1	../Test_optimize_sparsity.py	/^beta_1 = 0.01$/;"	kind:variable	line:171
+beta_2	../Test_optimize_sparsity.py	/^        beta_2 = 0.99*beta_2$/;"	kind:variable	line:244
+beta_2	../Test_optimize_sparsity.py	/^beta_2 = 0.0001$/;"	kind:variable	line:172
+bias_variable	../Paper_res_v1.py	/^def bias_variable(in_, out):$/;"	kind:function	line:117
+bias_variable	../Test_optimize_sparsity.py	/^def bias_variable(in_, out):$/;"	kind:function	line:47
+classes	../Test_optimize_sparsity.py	/^    classes = int(max(y_train))$/;"	kind:variable	line:183
+classes	../Test_random.py	/^    classes = int(max(y_train))$/;"	kind:variable	line:142
+classes	../Test_v3.py	/^    classes = int(max(y_train))$/;"	kind:variable	line:136
+classes	../Test_v4.py	/^    classes = int(max(y_train))$/;"	kind:variable	line:140
+classification	../Paper_res_v1.py	/^def classification(X, y, XT, yT, iterate, classes):$/;"	kind:function	line:203
+classification	../Test_optimize_sparsity.py	/^def classification(X, y, model):$/;"	kind:function	line:154
+clf	../Test_v2.py	/^clf = KNeighborsClassifier(3)$/;"	kind:variable	line:121
+clf	../Test_v2.py	/^clf = KNeighborsClassifier(3)$/;"	kind:variable	line:169
+clf	../Test_v2.py	/^clf = KNeighborsClassifier(3)$/;"	kind:variable	line:213
+clf	../Test_v2.py	/^clf = SVC(kernel="linear", C=0.025)$/;"	kind:variable	line:115
+clf	../Test_v2.py	/^clf = SVC(kernel="linear", C=0.025)$/;"	kind:variable	line:163
+clf	../Test_v2.py	/^clf = SVC(kernel="linear", C=0.025)$/;"	kind:variable	line:207
+comparison	../Compare_classifiers.py	/^def comparison(X, y):$/;"	kind:function	line:28
+comparison_class	../Paper_res_v1.py	/^def comparison_class(X, y, XT, yT):$/;"	kind:function	line:239
+comparison_class	../Paper_res_v2.py	/^def comparison_class(X, y, XT, yT):$/;"	kind:function	line:46
+comparison_class	../Paper_res_v3.py	/^def comparison_class(X, y, XT, yT):$/;"	kind:function	line:46
+comparson_dataset	../Paper_res_v1.py	/^def comparson_dataset():$/;"	kind:function	line:394
+computational_comparson	../Paper_res_v1.py	/^def computational_comparson():$/;"	kind:function	line:329
+cost	../Paper_res_v1.py	/^def cost(y, t):$/;"	kind:function	line:156
+cost	../Test_optimize_sparsity.py	/^def cost(y, t):$/;"	kind:function	line:86
+cost_function	../SparsePCA.py	/^    def cost_function():$/;"	kind:function	line:182
+cpu_count	../SparsePCA.py	/^def cpu_count():$/;"	kind:function	line:37
+cross_entropy_scores	../Paper_res_v1.py	/^def cross_entropy_scores(features, target, weights):$/;"	kind:function	line:103
+cross_entropy_scores	../Test_optimize_sparsity.py	/^def cross_entropy_scores(features, target, weights):$/;"	kind:function	line:33
+dataset	../Paper_res_v1.py	/^dataset = 'rolling'$/;"	kind:variable	line:43
+dataset	../Paper_res_v2.py	/^dataset = "sensorless"$/;"	kind:variable	line:81
+dataset	../Paper_res_v3.py	/^dataset = "sensorless"$/;"	kind:variable	line:82
+dataset	../Test_dist_cov.py	/^dataset = "rolling"$/;"	kind:variable	line:44
+dataset	../Test_optimize_sparsity.py	/^dataset = 'sensorless'$/;"	kind:variable	line:132
+dataset	../Test_random.py	/^dataset = 'rolling'$/;"	kind:variable	line:17
+dataset	../Test_v1.py	/^dataset = pickle.load(f)$/;"	kind:variable	line:65
+dataset	../Test_v2.py	/^dataset = pickle.load(f)$/;"	kind:variable	line:61
+dataset	../Test_v3.py	/^dataset = 'rolling'$/;"	kind:variable	line:16
+dataset	../Test_v4.py	/^dataset = 'rolling'$/;"	kind:variable	line:16
+dependence_calculation	../Test_v1.py	/^def dependence_calculation(X):$/;"	kind:function	line:122
+dim_reduction	../distanceHDR.py	/^def dim_reduction(X, i_dim, o_dim, g_size):$/;"	kind:function	line:44
+dim_reduction	../distanceHDR_v1.py	/^def dim_reduction(X, i_dim, o_dim, g_size):$/;"	kind:function	line:29
+dim_reduction_comparison	../Paper_res_v1.py	/^def dim_reduction_comparison(dataset, n_comp, g_size):$/;"	kind:function	line:458
+dim_reduction_comparison	../Paper_res_v1.py	/^def dim_reduction_comparison(n_comp, g_size):$/;"	kind:function	line:265
+dim_reduction_test	../distanceHDR.py	/^def dim_reduction_test(X, Level, i_dim, o_dim, g_size):$/;"	kind:function	line:123
+dim_reduction_test	../distanceHDR_v1.py	/^def dim_reduction_test(X, Level, i_dim, o_dim, g_size):$/;"	kind:function	line:133
+dimension_Reduced	../Test_optimize_sparsity.py	/^def dimension_Reduced(x, X, X1):$/;"	kind:function	line:134
+distanceHDR.py	../distanceHDR.py	1;"	kind:file	line:1
+distanceHDR_v1.py	../distanceHDR_v1.py	1;"	kind:file	line:1
+distance_covariance	../Test_v1.py	/^def distance_covariance(x,y):$/;"	kind:function	line:91
+extract_samples	../Test_v1.py	/^def extract_samples(X, y, p):$/;"	kind:function	line:57
+extract_samples	../Test_v2.py	/^def extract_samples(X, y, p):$/;"	kind:function	line:55
+extract_samples	../distanceHDR.py	/^def extract_samples(X, y, p):$/;"	kind:function	line:30
+extract_samples	../distanceHDR_v1.py	/^def extract_samples(X, y, p):$/;"	kind:function	line:24
+f	../Test_v1.py	/^f = gzip.open('..\/data\/'+pickle_file+'.pkl.gz','rb')$/;"	kind:variable	line:64
+f	../Test_v2.py	/^f = gzip.open('..\/data\/'+pickle_file+'.pkl.gz','rb')$/;"	kind:variable	line:60
+final_scores	../Test_optimize_sparsity.py	/^            final_scores = (np.dot(X_train, model.regression["weight"]))$/;"	kind:variable	line:203
+g_size	../Paper_res_v2.py	/^g_size = 2$/;"	kind:variable	line:93
+g_size	../Paper_res_v3.py	/^g_size = 20$/;"	kind:variable	line:95
+generate_new_data	../Paper_res_v1.py	/^def generate_new_data(n_sam, n_fea, n_inf):$/;"	kind:function	line:231
+gnb	../Test_v2.py	/^gnb = GaussianNB()$/;"	kind:variable	line:108
+gnb	../Test_v2.py	/^gnb = GaussianNB()$/;"	kind:variable	line:156
+gnb	../Test_v2.py	/^gnb = GaussianNB()$/;"	kind:variable	line:200
+h	../Compare_classifiers.py	/^h = .02  # step size in the mesh$/;"	kind:variable	line:25
+i	../svd_lowrank.py	/^    i = 1$/;"	kind:variable	line:28
+image_size	../Test_v1.py	/^image_size = 28$/;"	kind:variable	line:27
+image_size	../Test_v2.py	/^image_size = 28$/;"	kind:variable	line:27
+import_pickled_data	../Paper_res_v1.py	/^def import_pickled_data(string):$/;"	kind:function	line:120
+import_pickled_data	../Test_optimize_sparsity.py	/^def import_pickled_data(string):$/;"	kind:function	line:50
+import_pickled_data	../Test_random.py	/^def import_pickled_data(string):$/;"	kind:function	line:20
+import_pickled_data	../Test_v3.py	/^def import_pickled_data(string):$/;"	kind:function	line:19
+import_pickled_data	../Test_v4.py	/^def import_pickled_data(string):$/;"	kind:function	line:19
+init_f	../Test_v1.py	/^init_f = "uniform"$/;"	kind:variable	line:34
+init_f	../Test_v2.py	/^init_f = "uniform"$/;"	kind:variable	line:34
+inputs	../Test_optimize_sparsity.py	/^    inputs = X_train.shape[1]$/;"	kind:variable	line:182
+inputs	../Test_random.py	/^    inputs = X_train.shape[1]$/;"	kind:variable	line:141
+inputs	../Test_v3.py	/^    inputs = X_train.shape[1]$/;"	kind:variable	line:135
+inputs	../Test_v4.py	/^    inputs = X_train.shape[1]$/;"	kind:variable	line:139
+iterate_minibatches	../Paper_res_v1.py	/^def iterate_minibatches(inputs, targets, batchsize, shuffle=False):$/;"	kind:function	line:129
+iterate_minibatches	../Paper_res_v1.py	/^def iterate_minibatches(inputs, targets, batchsize, shuffle=False):$/;"	kind:function	line:159
+iterate_minibatches	../Test_optimize_sparsity.py	/^def iterate_minibatches(inputs, targets, batchsize, shuffle=False):$/;"	kind:function	line:59
+iterate_minibatches	../Test_random.py	/^def iterate_minibatches(inputs, targets, batchsize, shuffle=False):$/;"	kind:function	line:30
+iterate_minibatches	../Test_v3.py	/^def iterate_minibatches(inputs, targets, batchsize, shuffle=False):$/;"	kind:function	line:29
+iterate_minibatches	../Test_v4.py	/^def iterate_minibatches(inputs, targets, batchsize, shuffle=False):$/;"	kind:function	line:29
+l1	../Test_optimize_sparsity.py	/^        l1 = 0.99*l1$/;"	kind:variable	line:242
+l1	../Test_optimize_sparsity.py	/^l1 = 0.001$/;"	kind:variable	line:170
+lda	../Test_v2.py	/^lda = LinearDiscriminantAnalysis(solver="svd", store_covariance=True)$/;"	kind:variable	line:142
+lda	../Test_v2.py	/^lda = LinearDiscriminantAnalysis(solver="svd", store_covariance=True)$/;"	kind:variable	line:186
+lda	../Test_v2.py	/^lda = LinearDiscriminantAnalysis(solver="svd", store_covariance=True)$/;"	kind:variable	line:94
+level	../distanceHDR.py	/^class level():$/;"	kind:class	line:21
+level	../distanceHDR_v1.py	/^class level():$/;"	kind:class	line:19
+logistic_regression	../Paper_res_v1.py	/^    def logistic_regression(self, X, Y, classes, inputs, iterations):$/;"	kind:member	line:81
+logistic_regression	../Test_optimize_sparsity.py	/^    def logistic_regression(self, X, Y, classes, inputs, iterations):$/;"	kind:member	line:117
+loss	../Test_optimize_sparsity.py	/^        loss = (1-mse)*x+regul*(np.linalg.norm(x)-1)$/;"	kind:variable	line:224
+low_rank_approx	../svd_lowrank.py	/^def low_rank_approx(SVD=None, A=None, r=1):$/;"	kind:function	line:4
+lr	../Test_v1.py	/^lr = 0.01$/;"	kind:variable	line:38
+lr	../Test_v2.py	/^lr = 0.01$/;"	kind:variable	line:38
+model	../Test_optimize_sparsity.py	/^            model = classification(X_train, y, model)$/;"	kind:variable	line:201
+model	../Test_optimize_sparsity.py	/^    model = reg(inputs, classes)$/;"	kind:variable	line:187
+mom	../Test_optimize_sparsity.py	/^        mom = beta_1*mom + (1-beta_1)*loss$/;"	kind:variable	line:226
+mom	../Test_optimize_sparsity.py	/^        mom = mom\/(float(1-beta_1)+0.0000001)$/;"	kind:variable	line:228
+mom	../Test_optimize_sparsity.py	/^mom = 0.0$/;"	kind:variable	line:168
+mse	../Test_optimize_sparsity.py	/^            mse = sklearn.metrics.mean_squared_error(y, preds)$/;"	kind:variable	line:210
+n	../Test_random.py	/^    n = n_comp[i]$/;"	kind:variable	line:124
+n_comp	../Paper_res_v2.py	/^n_comp = 4$/;"	kind:variable	line:92
+n_comp	../Paper_res_v3.py	/^n_comp = 290$/;"	kind:variable	line:94
+n_comp	../Test_random.py	/^n_comp = (np.array([i for i in xrange(10)])+1).reshape(-1)$/;"	kind:variable	line:110
+n_comp	../Test_v3.py	/^n_comp = 6$/;"	kind:variable	line:105
+n_comp	../Test_v4.py	/^n_comp = 6$/;"	kind:variable	line:111
+new_groups	../distanceHDR.py	/^def new_groups(T, g_size):$/;"	kind:function	line:179
+new_groups	../distanceHDR_v1.py	/^def new_groups(T, g_size):$/;"	kind:function	line:198
+novel_groups	../distanceHDR.py	/^def novel_groups(T, g_size):$/;"	kind:function	line:166
+novel_groups	../distanceHDR_v1.py	/^def novel_groups(T, g_size):$/;"	kind:function	line:185
+num_data_input	../Test_v1.py	/^num_data_input = 11$/;"	kind:variable	line:30
+num_data_input	../Test_v2.py	/^num_data_input = 48$/;"	kind:variable	line:30
+num_hidden	../Test_v1.py	/^num_hidden = 100$/;"	kind:variable	line:31
+num_hidden	../Test_v2.py	/^num_hidden = 100$/;"	kind:variable	line:31
+num_labels	../Test_v1.py	/^num_labels = 4$/;"	kind:variable	line:32
+num_labels	../Test_v2.py	/^num_labels = 11$/;"	kind:variable	line:32
+num_layer	../Test_v1.py	/^num_layer = 5 #should be >= 3$/;"	kind:variable	line:39
+num_layer	../Test_v2.py	/^num_layer = 5 #should be >= 3$/;"	kind:variable	line:39
+num_steps	../Test_v1.py	/^num_steps = 5000$/;"	kind:variable	line:40
+num_steps	../Test_v2.py	/^num_steps = 5000$/;"	kind:variable	line:40
+paper	../Test_dist_cov.py	/^paper = 'paper_2'$/;"	kind:variable	line:20
+paper	../Test_v1.py	/^paper = 'paper_2'$/;"	kind:variable	line:20
+paper	../Test_v2.py	/^paper = 'paper_2'$/;"	kind:variable	line:20
+paper	../distanceHDR.py	/^paper = 'paper_2'$/;"	kind:variable	line:18
+paper	../distanceHDR_v1.py	/^paper = 'paper_2'$/;"	kind:variable	line:16
+path_store	../Test_dist_cov.py	/^path_store = '..\/FinalDistSamples\/'$/;"	kind:variable	line:15
+path_store	../Test_v1.py	/^path_store = '..\/FinalDistSamples\/'$/;"	kind:variable	line:15
+path_store	../Test_v2.py	/^path_store = '..\/FinalDistSamples\/'$/;"	kind:variable	line:15
+path_store	../distanceHDR.py	/^path_store = '..\/FinalDistSamples\/'$/;"	kind:variable	line:14
+path_store	../distanceHDR_v1.py	/^path_store = '..\/FinalDistSamples\/'$/;"	kind:variable	line:12
+pickle_file	../Test_v1.py	/^pickle_file = 'rolling'$/;"	kind:variable	line:21
+pickle_file	../Test_v2.py	/^pickle_file = 'sensorless'$/;"	kind:variable	line:21
+preds	../Test_optimize_sparsity.py	/^            preds = softmax(final_scores)$/;"	kind:variable	line:204
+print_matrix	../Test_dist_cov.py	/^def print_matrix(S):$/;"	kind:function	line:23
+qda	../Test_v2.py	/^qda = QuadraticDiscriminantAnalysis(store_covariances=True)$/;"	kind:variable	line:100
+qda	../Test_v2.py	/^qda = QuadraticDiscriminantAnalysis(store_covariances=True)$/;"	kind:variable	line:148
+qda	../Test_v2.py	/^qda = QuadraticDiscriminantAnalysis(store_covariances=True)$/;"	kind:variable	line:192
+reformat	../Test_v1.py	/^def reformat(dataset, labels):$/;"	kind:function	line:49
+reformat	../Test_v2.py	/^def reformat(dataset, labels):$/;"	kind:function	line:47
+reg	../Paper_res_v1.py	/^class reg():$/;"	kind:class	line:53
+reg	../Test_optimize_sparsity.py	/^class reg():$/;"	kind:class	line:90
+regul	../Test_optimize_sparsity.py	/^        regul = 0.0001$/;"	kind:variable	line:222
+return_dict	../Paper_res_v1.py	/^def return_dict(placeholder, List, model, batch_x, batch_y):$/;"	kind:function	line:171
+return_dict	../Test_random.py	/^def return_dict(placeholder, List, model, batch_x, batch_y):$/;"	kind:function	line:43
+return_dict	../Test_v3.py	/^def return_dict(placeholder, List, model, batch_x, batch_y):$/;"	kind:function	line:42
+return_dict	../Test_v4.py	/^def return_dict(placeholder, List, model, batch_x, batch_y):$/;"	kind:function	line:42
+scaler	../Paper_res_v2.py	/^ with_std = True).fit(No)$/;"	kind:variable	line:85
+scaler	../Paper_res_v3.py	/^ with_std = True).fit(No)$/;"	kind:variable	line:88
+scaler	../Test_dist_cov.py	/^ with_std = True).fit(No)$/;"	kind:variable	line:50
+scaler	../Test_optimize_sparsity.py	/^        scaler = preprocessing.StandardScaler(with_mean = True, with_std = True).fit(N)$/;"	kind:variable	line:191
+scaler	../Test_optimize_sparsity.py	/^        scaler = preprocessing.StandardScaler(with_mean = True, with_std = True).fit(T)$/;"	kind:variable	line:194
+scaler	../Test_optimize_sparsity.py	/^    scaler = preprocessing.StandardScaler(with_mean = True, with_std = True).fit(N)$/;"	kind:variable	line:176
+scaler	../Test_random.py	/^    scaler = preprocessing.StandardScaler(with_mean = True, with_std = True).fit(N)$/;"	kind:variable	line:119
+scaler	../Test_random.py	/^scaler = preprocessing.StandardScaler(with_mean = True, with_std = True).fit(N)$/;"	kind:variable	line:113
+scaler	../Test_v3.py	/^    scaler = preprocessing.StandardScaler(with_mean = True, with_std = True).fit(N)$/;"	kind:variable	line:112
+scaler	../Test_v3.py	/^scaler = preprocessing.StandardScaler(with_mean = True, with_std = True).fit(N)$/;"	kind:variable	line:107
+scaler	../Test_v4.py	/^    scaler = preprocessing.StandardScaler(with_mean = True, with_std = True).fit(N)$/;"	kind:variable	line:120
+scaler	../Test_v4.py	/^scaler = preprocessing.StandardScaler(with_mean = True, with_std = True).fit(N)$/;"	kind:variable	line:114
+sco	../Paper_res_v2.py	/^sco = np.zeros((1,9))$/;"	kind:variable	line:90
+sco	../Paper_res_v3.py	/^sco = np.zeros((1,9))$/;"	kind:variable	line:92
+sigmoid	../Paper_res_v1.py	/^def sigmoid(scores):$/;"	kind:function	line:97
+sigmoid	../Test_optimize_sparsity.py	/^def sigmoid(scores):$/;"	kind:function	line:27
+sigmoid_dev	../Paper_res_v1.py	/^def sigmoid_dev(scores):$/;"	kind:function	line:100
+sigmoid_dev	../Test_optimize_sparsity.py	/^def sigmoid_dev(scores):$/;"	kind:function	line:30
+softmax	../Paper_res_v1.py	/^def softmax(z):$/;"	kind:function	line:146
+softmax	../Test_optimize_sparsity.py	/^def softmax(z):$/;"	kind:function	line:76
+sparse_pca	../SparsePCA.py	/^def sparse_pca(Y, n_atoms, alpha, maxit=100, tol=1e-8, method='lars',$/;"	kind:function	line:148
+start	../Test_v1.py	/^start = time.time()$/;"	kind:variable	line:149
+start	../Test_v1.py	/^start = time.time()$/;"	kind:variable	line:160
+start	../Test_v2.py	/^start = time.time()$/;"	kind:variable	line:132
+start	../Test_v2.py	/^start = time.time()$/;"	kind:variable	line:86
+svd_lowrank.py	../svd_lowrank.py	1;"	kind:file	line:1
+temp_scalar	../Test_optimize_sparsity.py	/^    temp_scalar = preprocessing.StandardScaler(with_mean = True, with_std = True).fit(T)$/;"	kind:variable	line:178
+temp_scalar	../Test_random.py	/^    temp_scalar = preprocessing.StandardScaler(with_mean = True, with_std = True).fit(T)$/;"	kind:variable	line:121
+temp_scalar	../Test_v1.py	/^temp_scalar = preprocessing.StandardScaler(with_mean = True, with_std = True).fit(N)$/;"	kind:variable	line:145
+temp_scalar	../Test_v3.py	/^    temp_scalar = preprocessing.StandardScaler(with_mean = True, with_std = True).fit(T)$/;"	kind:variable	line:114
+temp_scalar	../Test_v4.py	/^    temp_scalar = preprocessing.StandardScaler(with_mean = True, with_std = True).fit(T)$/;"	kind:variable	line:122
+test_dataset	../Test_v1.py	/^test_dataset  = dataset[1]$/;"	kind:variable	line:67
+test_dataset	../Test_v2.py	/^test_dataset  =  preprocessing.scale(test_dataset)$/;"	kind:variable	line:75
+test_dataset	../Test_v2.py	/^test_dataset  = dataset[1]$/;"	kind:variable	line:63
+test_distance_covariance	../Test_dist_cov.py	/^def test_distance_covariance(D_scaled):$/;"	kind:function	line:32
+test_labels	../Test_v1.py	/^test_labels   = dataset[3]$/;"	kind:variable	line:69
+test_labels	../Test_v2.py	/^test_labels   = dataset[3]$/;"	kind:variable	line:65
+total_comp	../Test_random.py	/^total_comp = 2$/;"	kind:variable	line:15
+total_mean	../Test_random.py	/^total_mean = 1$/;"	kind:variable	line:16
+total_mean	../Test_v3.py	/^total_mean = 10$/;"	kind:variable	line:15
+total_mean	../Test_v4.py	/^total_mean = 100$/;"	kind:variable	line:15
+total_sparsity	../Test_random.py	/^total_sparsity = 1$/;"	kind:variable	line:14
+total_sparsity	../Test_v3.py	/^total_sparsity = 100$/;"	kind:variable	line:14
+total_sparsity	../Test_v4.py	/^total_sparsity = 1$/;"	kind:variable	line:14
+train_dataset	../Test_v1.py	/^train_dataset = dataset[0]$/;"	kind:variable	line:66
+train_dataset	../Test_v2.py	/^train_dataset =  preprocessing.scale(train_dataset)$/;"	kind:variable	line:73
+train_dataset	../Test_v2.py	/^train_dataset = dataset[0]$/;"	kind:variable	line:62
+train_labels	../Test_v1.py	/^train_labels  = dataset[2]$/;"	kind:variable	line:68
+train_labels	../Test_v2.py	/^train_labels  = dataset[2]$/;"	kind:variable	line:64
+update_weight	../Paper_res_v1.py	/^    def update_weight(self, score, batch_xs, batch_ys, weight, bias, lr):$/;"	kind:member	line:65
+update_weight	../Test_optimize_sparsity.py	/^    def update_weight(self, score, batch_xs, batch_ys, weight, bias, lr):$/;"	kind:member	line:102
+v	../Test_optimize_sparsity.py	/^        v   = beta_2*v+(1-beta_2)*(loss*loss)$/;"	kind:variable	line:227
+v	../Test_optimize_sparsity.py	/^        v=v\/(float(1-beta_2)+0.000000001)$/;"	kind:variable	line:229
+v	../Test_optimize_sparsity.py	/^v = 0.0$/;"	kind:variable	line:169
+valid_dataset	../Test_v1.py	/^valid_dataset = dataset[1]$/;"	kind:variable	line:70
+valid_dataset	../Test_v2.py	/^valid_dataset =  preprocessing.scale(valid_dataset)$/;"	kind:variable	line:74
+valid_dataset	../Test_v2.py	/^valid_dataset = dataset[1]$/;"	kind:variable	line:66
+valid_labels	../Test_v1.py	/^valid_labels  = dataset[3]$/;"	kind:variable	line:71
+valid_labels	../Test_v2.py	/^valid_labels  = dataset[3]$/;"	kind:variable	line:67
+weight_uni_range	../Test_v1.py	/^weight_uni_range = 0.01$/;"	kind:variable	line:36
+weight_uni_range	../Test_v2.py	/^weight_uni_range = 0.01$/;"	kind:variable	line:36
+weight_variable	../Paper_res_v1.py	/^def weight_variable( in_, out):$/;"	kind:function	line:112
+weight_variable	../Test_optimize_sparsity.py	/^def weight_variable( in_, out):$/;"	kind:function	line:42
+x	../Test_optimize_sparsity.py	/^            x = 0.1$/;"	kind:variable	line:236
+x	../Test_optimize_sparsity.py	/^            x =0.9$/;"	kind:variable	line:238
+x	../Test_optimize_sparsity.py	/^        x = x  - (l1*(mom\/float(sqrt(v)+0.0000001)));$/;"	kind:variable	line:233
+x	../Test_optimize_sparsity.py	/^    x = random.random()$/;"	kind:variable	line:180
+x	../Test_random.py	/^    x = K$/;"	kind:variable	line:123
+x	../Test_v3.py	/^    x = np.asscalar(K[i])$/;"	kind:variable	line:117
+x	../Test_v4.py	/^    x = K$/;"	kind:variable	line:124
+x	../svd_lowrank.py	/^    x = lena()$/;"	kind:variable	line:26
+xavier	../Paper_res_v1.py	/^def xavier(fan_in, fan_out):$/;"	kind:function	line:107
+xavier	../Test_optimize_sparsity.py	/^def xavier(fan_in, fan_out):$/;"	kind:function	line:37
+y	../Test_optimize_sparsity.py	/^    y = tflearn.data_utils.to_categorical((y_train-1), classes)$/;"	kind:variable	line:184
+y	../svd_lowrank.py	/^        y = low_rank_approx((u, s, v), r=i)$/;"	kind:variable	line:32
+y_pred	../Test_v2.py	/^y_pred = clf.fit(Train, train_labels).predict(Train)$/;"	kind:variable	line:116
+y_pred	../Test_v2.py	/^y_pred = clf.fit(Train, train_labels).predict(Train)$/;"	kind:variable	line:122
+y_pred	../Test_v2.py	/^y_pred = clf.fit(Train, train_labels).predict(Train)$/;"	kind:variable	line:164
+y_pred	../Test_v2.py	/^y_pred = clf.fit(Train, train_labels).predict(Train)$/;"	kind:variable	line:170
+y_pred	../Test_v2.py	/^y_pred = clf.fit(Train, train_labels).predict(Train)$/;"	kind:variable	line:208
+y_pred	../Test_v2.py	/^y_pred = clf.fit(Train, train_labels).predict(Train)$/;"	kind:variable	line:214
+y_pred	../Test_v2.py	/^y_pred = gnb.fit(Train, train_labels).predict(Train)$/;"	kind:variable	line:109
+y_pred	../Test_v2.py	/^y_pred = gnb.fit(Train, train_labels).predict(Train)$/;"	kind:variable	line:157
+y_pred	../Test_v2.py	/^y_pred = gnb.fit(Train, train_labels).predict(Train)$/;"	kind:variable	line:201
+y_pred	../Test_v2.py	/^y_pred = lda.fit(Train, train_labels).predict(Train)$/;"	kind:variable	line:143
+y_pred	../Test_v2.py	/^y_pred = lda.fit(Train, train_labels).predict(Train)$/;"	kind:variable	line:187
+y_pred	../Test_v2.py	/^y_pred = lda.fit(Train, train_labels).predict(Train)$/;"	kind:variable	line:95
+y_pred	../Test_v2.py	/^y_pred = qda.fit(Train, train_labels).predict(Train)$/;"	kind:variable	line:101
+y_pred	../Test_v2.py	/^y_pred = qda.fit(Train, train_labels).predict(Train)$/;"	kind:variable	line:149
+y_pred	../Test_v2.py	/^y_pred = qda.fit(Train, train_labels).predict(Train)$/;"	kind:variable	line:193

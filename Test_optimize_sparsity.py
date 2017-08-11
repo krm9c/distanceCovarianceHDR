@@ -115,7 +115,7 @@ class reg():
         return (weight- lr* np.divide(self.m_1, (np.sqrt(self.v_1) + 0.000001) ) ) , bias
 
     def logistic_regression(self, X, Y, classes, inputs, iterations):
-        self.regression["lr"] = 0.001
+        self.regression["lr"] = 0.01
         for i in xrange(iterations):
             self.regression["lr"] = 0.99*self.regression["lr"]
             for batch in iterate_minibatches(X, Y, 200, shuffle=True):
@@ -129,7 +129,7 @@ class reg():
         # print 'Accuracy from scratch: {0}'.format(accuracy(preds, Y))
         return self
 
-dataset = 'rolling'
+dataset = 'sensorless'
 ## Data In
 def dimension_Reduced(x, X, X1):
     # U, S_1, V, E = sparse_pca(Sigma,n_comp , x, maxit=100,\
@@ -205,6 +205,7 @@ for k in tqdm(xrange(100)):
 
             acc = accuracy(preds, y)
 
+            # print("accuracy is", acc)
             ## Calculate momentum and variance parameters
             mse = sklearn.metrics.mean_squared_error(y, preds)
         except Exception as e:

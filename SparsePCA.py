@@ -214,9 +214,4 @@ def sparse_pca(Y, n_atoms, alpha, maxit=100, tol=1e-8, method='lars',
                 break
         if ii % 5 == 0 and callback is not None:
             callback(locals())
-
-        U_1, S_1, V_1 = linalg.svd(U, full_matrices=False)
-        U_2, S_2, V_2 = linalg.svd(V, full_matrices=False)
-        Temp = np.dot(np.dot(np.dot(np.diag(S_1), V_1),U_2), np.diag(S_2))
-        U_3, S_3, V_3 = linalg.svd(Temp, full_matrices=False)
-    return np.dot(U_1, U_3), S_3, np.dot(V_3,V_2), E
+    return U,V
